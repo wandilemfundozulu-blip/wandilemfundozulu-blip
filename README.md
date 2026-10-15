@@ -1,6 +1,6 @@
 ### Hi, I'm Wandile Mfundo Zulu 👋 | Business Administration @ DUT → Aspiring Business & Data Analyst
 
-I'm a Final Year Business Administration student at Durban University of Technology with real entrepreneurial experience building financial models for my ventures BABY GOAT APPAREL & THE PLUG PRINT (R4.3k revenue tracked in Excel).
+I'm a Final Year Business Administration student at Durban University of Technology with real entrepreneurial experience building financial models for my ventures BABY GOAT APPAREL & THE PLUG PRINT (Revenue tracked in Excel)
 
 I bridge business operations and data — turning messy sales journals into dashboards that drive decisions.
 
