@@ -6,7 +6,7 @@ I bridge business operations and data — turning messy sales journals into dash
 
 **🎓 Certifications:**
 - HackerRank SQL (Basic) - ID: 38B45ADC81DE
-- Deloitte Data Analytics Job Simulation
+- Deloitte Data Analytics Job Simulation - ID: 6ace032275a2e300d330f626
 - FNB x UJ Python Development
 
 **🛠️ Tech Stack:**
