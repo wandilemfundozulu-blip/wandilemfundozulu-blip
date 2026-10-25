@@ -8,7 +8,7 @@ My work focuses on making financial and operational information easier to unders
 ### 💼 Business & Analytical Experience
 
 **BABY GOAT APPAREL | Associate Founder** · *Jul 2026 – Present*  
-Financial administration, procurement, inventory planning and performance analysis. Tracked **R8,695 in reported turnover** and **R5,275 in reported profit** across July–September 2026; worked on Power BI reporting to explore revenue, products and inventory (the dashboard file is not yet published here).
+Financial administration, procurement, inventory planning and performance analysis. Maintained internal financial tracking, procurement and inventory reporting; worked on Power BI reporting to explore revenue, products and inventory (the dashboard file is not yet published here).
 
 **THE PLUG PRINT | Co-Founder & Financial Analyst** · *Aug 2026 – Present*  
 Financial tracking and operational coordination for a student-focused printing service. Secured **R2,800 in start-up capital** and generated **R4,300 in gross income** in its first two months; supported planning and work allocation across a **14-member team**.
