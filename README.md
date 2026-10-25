@@ -8,7 +8,7 @@ My work focuses on making financial and operational information easier to unders
 ### 💼 Business & Analytical Experience
 
 **BABY GOAT APPAREL | Associate Founder** · *Jul 2026 – Present*  
-Financial administration, procurement, inventory planning and performance analysis. Tracked **R8,695 in reported turnover** and **R5,275 in reported profit** across July–September 2026; developed a Power BI sales dashboard to explore revenue, products and inventory.
+Financial administration, procurement, inventory planning and performance analysis. Tracked **R8,695 in reported turnover** and **R5,275 in reported profit** across July–September 2026; worked on Power BI reporting to explore revenue, products and inventory (the dashboard file is not yet published here).
 
 **THE PLUG PRINT | Co-Founder & Financial Analyst** · *Aug 2026 – Present*  
 Financial tracking and operational coordination for a student-focused printing service. Secured **R2,800 in start-up capital** and generated **R4,300 in gross income** in its first two months; supported planning and work allocation across a **14-member team**.
@@ -45,12 +45,12 @@ Customer-needs consultations, product sourcing, procurement, pricing support and
 **[→ Explore my FNB-UJ Data Analytics Portfolio](https://github.com/wandilemfundozulu-blip/FNB-UJ-Data-Analytics-Portfolio)**
 
 **Entrepreneurial business analysis**
-- BABY GOAT APPAREL — Financial model, sales tracking and Power BI reporting
-- THE PLUG PRINT — Financial and operations model
+- [BABY GOAT APPAREL — Published financial model and business plan](https://github.com/wandilemfundozulu-blip/FNB-UJ-Data-Analytics-Portfolio/tree/main/Baby_Goat_Apparel) (Power BI source file not yet published)
+- THE PLUG PRINT — Financial and operations tracking (supporting workbook not yet published)
 
 **Academic Business Analysis assessments**
-- Payroll & Tax Calculation Model — Excel-based illustrative payroll calculations (not a statutory PAYE tool)
-- Ndabezitha Holdings — Sales analysis, lookup formulas and scenario modelling
+- Payroll & Tax Calculation Model — Excel-based illustrative payroll calculations (not a statutory PAYE tool; source workbook not yet published)
+- [Ndabezitha Holdings — Spreadsheet analysis workbook](https://github.com/wandilemfundozulu-blip/FNB-UJ-Data-Analytics-Portfolio/tree/main/Ndabezitha_Holdings)
 
 **Virtual simulation work**
 - [Deloitte — Telemetry analysis in Tableau and equality/fairness analysis in Excel](https://github.com/wandilemfundozulu-blip/FNB-UJ-Data-Analytics-Portfolio/blob/main/Case_Studies/Deloitte_Telemetry_and_Equality_Analysis.md)
@@ -58,7 +58,7 @@ Customer-needs consultations, product sourcing, procurement, pricing support and
 - EY — Technology risk simulation
 - [HackerRank SQL (Basic) — certificate evidence and assessment context](https://github.com/wandilemfundozulu-blip/FNB-UJ-Data-Analytics-Portfolio/blob/main/Case_Studies/HackerRank_SQL_Basic.md)
 
-*Project files and supporting documentation are being reviewed and organised. Not every item listed above has a dedicated published repository yet.*
+*Linked projects include published evidence where available. Other work is described as experience or learning activity and is not represented as independently verified. The publicly hosted business documents should be reviewed for confidential information before wider distribution.*
 
 ### 🎯 Professional Direction
 
