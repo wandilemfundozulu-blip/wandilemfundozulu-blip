@@ -42,23 +42,28 @@ Customer-needs consultations, product sourcing, procurement, pricing support and
 
 ### 📊 Featured Portfolio
 
-**[→ Explore my FNB-UJ Data Analytics Portfolio](https://github.com/wandilemfundozulu-blip/FNB-UJ-Data-Analytics-Portfolio)**
+**[→ Explore my public Business & Data Analytics Portfolio](portfolio/README.md)**
 
-**Entrepreneurial business analysis**
-- [BABY GOAT APPAREL — Business finance and operations case summary](https://github.com/wandilemfundozulu-blip/FNB-UJ-Data-Analytics-Portfolio/tree/main/Baby_Goat_Apparel) (Power BI source file not yet published)
-- THE PLUG PRINT — Financial and operations tracking (supporting workbook not yet published)
+My public portfolio contains carefully selected, recruiter-accessible summaries and original learning exercises:
 
-**Academic Business Analysis assessments**
-- Payroll & Tax Calculation Model — Excel-based illustrative payroll calculations (not a statutory PAYE tool; source workbook not yet published)
-- [Ndabezitha Holdings — Spreadsheet analysis workbook](https://github.com/wandilemfundozulu-blip/FNB-UJ-Data-Analytics-Portfolio/tree/main/Ndabezitha_Holdings)
+**Business operations**
+- [👕 BABY GOAT APPAREL — Finance, pricing and operations](portfolio/baby-goat-apparel.md)
+- **THE PLUG PRINT** — Real student printing venture; financial and operations coordination (internal records are not public)
+- **SIGNED & STYLED** — Personalised gifting venture; sourcing, pricing support and fulfilment
 
-**Virtual simulation work**
-- [Deloitte — Telemetry analysis in Tableau and equality/fairness analysis in Excel](https://github.com/wandilemfundozulu-blip/FNB-UJ-Data-Analytics-Portfolio/blob/main/Case_Studies/Deloitte_Telemetry_and_Equality_Analysis.md)
-- [BCG X — Campaign performance analysis and communication of findings](https://github.com/wandilemfundozulu-blip/FNB-UJ-Data-Analytics-Portfolio/blob/main/Case_Studies/BCGX_Campaign_Performance_Analysis.md)
-- EY — Technology risk simulation
-- [HackerRank SQL (Basic) — certificate evidence and assessment context](https://github.com/wandilemfundozulu-blip/FNB-UJ-Data-Analytics-Portfolio/blob/main/Case_Studies/HackerRank_SQL_Basic.md)
+**Data analysis & virtual job simulations**
+- [📊 Deloitte — Factory telemetry and equality analysis](portfolio/deloitte-analytics.md)
+- [📈 BCG X — Customer-segment campaign analysis](portfolio/bcgx-campaigns.md)
+- [🛡️ EY — Technology risk and change-management controls](portfolio/ey-technology-risk.md)
 
-*Linked projects include published evidence where available. Internal BABY GOAT APPAREL financial and business-plan files were removed from the current public branch as a confidentiality precaution; this does not erase their earlier Git history. Other work is described as experience or learning activity and is not represented as independently verified.*
+**Technical foundations**
+- [🐍 Python — Two runnable introductory exercises](portfolio/python/README.md)
+- **SQL (Basic)** — HackerRank certification; examination content is not published
+
+**Academic assessments**
+- Payroll and tax calculation practice, and Ndabezitha Holdings spreadsheet analysis — academic exercises; source workbooks are not part of this public portfolio.
+
+> 🔐 **Privacy by design:** My original analytics working repository is private. The public case studies contain only selected descriptions and safe examples, not internal financial documents or restricted datasets. Forage job simulations are not employment.
 
 ### 🎯 Professional Direction
 
@@ -68,4 +73,4 @@ Interested in **Business Analyst, Business Intelligence, Data Analyst, Financial
 
 - 💼 [LinkedIn](https://linkedin.com/in/wandile-zulu-a1487741b)
 - ✉️ [Email](mailto:wandilemfundozulu@gmail.com)
-- 💻 [GitHub Portfolio](https://github.com/wandilemfundozulu-blip)
+- 💻 [Public Portfolio](portfolio/README.md)
