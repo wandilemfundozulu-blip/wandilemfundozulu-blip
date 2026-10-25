@@ -45,7 +45,7 @@ Customer-needs consultations, product sourcing, procurement, pricing support and
 **[→ Explore my FNB-UJ Data Analytics Portfolio](https://github.com/wandilemfundozulu-blip/FNB-UJ-Data-Analytics-Portfolio)**
 
 **Entrepreneurial business analysis**
-- [BABY GOAT APPAREL — Published financial model and business plan](https://github.com/wandilemfundozulu-blip/FNB-UJ-Data-Analytics-Portfolio/tree/main/Baby_Goat_Apparel) (Power BI source file not yet published)
+- [BABY GOAT APPAREL — Business finance and operations case summary](https://github.com/wandilemfundozulu-blip/FNB-UJ-Data-Analytics-Portfolio/tree/main/Baby_Goat_Apparel) (Power BI source file not yet published)
 - THE PLUG PRINT — Financial and operations tracking (supporting workbook not yet published)
 
 **Academic Business Analysis assessments**
@@ -58,7 +58,7 @@ Customer-needs consultations, product sourcing, procurement, pricing support and
 - EY — Technology risk simulation
 - [HackerRank SQL (Basic) — certificate evidence and assessment context](https://github.com/wandilemfundozulu-blip/FNB-UJ-Data-Analytics-Portfolio/blob/main/Case_Studies/HackerRank_SQL_Basic.md)
 
-*Linked projects include published evidence where available. Other work is described as experience or learning activity and is not represented as independently verified. The publicly hosted business documents should be reviewed for confidential information before wider distribution.*
+*Linked projects include published evidence where available. Internal BABY GOAT APPAREL financial and business-plan files were removed from the current public branch as a confidentiality precaution; this does not erase their earlier Git history. Other work is described as experience or learning activity and is not represented as independently verified.*
 
 ### 🎯 Professional Direction
 
