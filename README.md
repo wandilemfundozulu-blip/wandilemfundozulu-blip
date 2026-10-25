@@ -53,9 +53,10 @@ Customer-needs consultations, product sourcing, procurement, pricing support and
 - Ndabezitha Holdings — Sales analysis, lookup formulas and scenario modelling
 
 **Virtual simulation work**
-- Deloitte — Telemetry analysis in Tableau and equality/fairness analysis in Excel
-- BCG X — Campaign performance analysis and communication of findings
+- [Deloitte — Telemetry analysis in Tableau and equality/fairness analysis in Excel](https://github.com/wandilemfundozulu-blip/FNB-UJ-Data-Analytics-Portfolio/blob/main/Case_Studies/Deloitte_Telemetry_and_Equality_Analysis.md)
+- [BCG X — Campaign performance analysis and communication of findings](https://github.com/wandilemfundozulu-blip/FNB-UJ-Data-Analytics-Portfolio/blob/main/Case_Studies/BCGX_Campaign_Performance_Analysis.md)
 - EY — Technology risk simulation
+- [HackerRank SQL (Basic) — certificate evidence and assessment context](https://github.com/wandilemfundozulu-blip/FNB-UJ-Data-Analytics-Portfolio/blob/main/Case_Studies/HackerRank_SQL_Basic.md)
 
 *Project files and supporting documentation are being reviewed and organised. Not every item listed above has a dedicated published repository yet.*
 
